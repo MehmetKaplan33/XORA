@@ -27,7 +27,7 @@ A modern and responsive landing page for XORA - an AI-powered video editing plat
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/xora-landing.git
+git clone https://github.com/MehmetKaplan33/XORA
 ```
 
 2. Install dependencies
