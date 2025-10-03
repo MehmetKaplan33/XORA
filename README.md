@@ -74,7 +74,8 @@ The project uses Tailwind CSS for styling. You can customize:
 
 ## 📄 License
 
-This project is licensed under the MIT License. Feel free to use it for your own projects.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
 
 ## 🤝 Contributing
 
